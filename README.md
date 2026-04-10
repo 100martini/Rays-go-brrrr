@@ -1,4 +1,4 @@
-# minirt ⚡️
+# minirt ⚡
 
 > ray tracer in c. no opengl. no shortcuts. just math and a lot of faith.
 
